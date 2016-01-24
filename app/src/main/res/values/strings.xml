@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StregApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_hint"><font size = "14">Enter Your Team Name</font></string>
+
+</resources>
